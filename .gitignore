@@ -1,0 +1,5 @@
+Build/
+libs/
+resources/
+*.build
+.clang_complete

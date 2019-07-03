@@ -1,0 +1,6 @@
+#ifndef SKY_CONSTANT_VALUES_H
+#define SKY_CONSTANT_VALUES_H
+
+#define WALK_ANIMATION_SPEED 0.125f
+
+#endif
